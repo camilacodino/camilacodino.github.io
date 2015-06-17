@@ -63,3 +63,25 @@
      font-size: 15px;
     margin-bottom: 13px;    
 }
+
+.la12{
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.la12 h2{
+    color: #393c3d;
+    font-size: 24px;
+
+}
+
+.la12 p{
+     font-size: 15px;
+    margin-bottom: 13px;    
+}
+
+footer {
+  font-family: 'Shift', sans-serif;
+  font-size: 9px;
+  font-weight: bold;
+}
